@@ -82,14 +82,14 @@ looks great on 16:9 screens:
 A dark, high-contrast palette — warm amber and ivory on a near-black void,
 with muted hue hints for the semantic colors.
 
-| Role  | Color                                             |
-| ----- | ------------------------------------------------- |
-| Accent| `#C08A3E`  <span style="color:#C08A3E">▮</span>  |
-| Text  | `#DCD4C3`  <span style="color:#DCD4C3">▮</span>  |
-| Bg    | `#0F0D0E`  <span style="color:#0F0D0E">▮</span>  |
-| Red   | `#B6573F`  <span style="color:#B6573F">▮</span>  |
-| Green | `#7C8354`  <span style="color:#7C8354">▮</span>  |
-| Blue  | `#D3B872`  <span style="color:#D3B872">▮</span>  |
+| Role  | Color    | Swatch                              |
+| ----- | -------- | ----------------------------------- |
+| Accent| `#C08A3E`| ![#C08A3E](assets/swatches/c08a3e.png) |
+| Text  | `#DCD4C3`| ![#DCD4C3](assets/swatches/dcd4c3.png) |
+| Bg    | `#0F0D0E`| ![#0F0D0E](assets/swatches/0f0d0e.png) |
+| Red   | `#B6573F`| ![#B6573F](assets/swatches/b6573f.png) |
+| Green | `#7C8354`| ![#7C8354](assets/swatches/7c8354.png) |
+| Blue  | `#D3B872`| ![#D3B872](assets/swatches/d3b872.png) |
 
 ## License
 
