@@ -1,5 +1,7 @@
 # Faded Relay
 
+[![Built for Omarchy: Theme](https://raw.githubusercontent.com/tcballard/omarchy-badges/75975e5b5bf75e7ede3764bcd2950046f7abfe2c/badges/v1/omarchy-theme.svg)](https://github.com/tcballard/omarchy-badges)
+
 > A dark, industrial theme for [Omarchy](https://omarchy.org/) — abandoned
 > machines and lonely beacons, drawn in ivory line-art and warm amber light
 > against a near-black void. The last relay, still transmitting into the
