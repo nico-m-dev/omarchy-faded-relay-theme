@@ -1,0 +1,6 @@
+# Faded Relay — everything a little tighter than the default: panels and menus
+# should feel machined, with the gaps of a drawing sheet.
+
+[spacing]
+scale = 0.95
+scale-with-font = true
