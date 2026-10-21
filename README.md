@@ -89,9 +89,11 @@ with muted hue hints for the semantic colors.
 | Accent| `#C08A3E`| ![#C08A3E](assets/swatches/c08a3e.png) |
 | Text  | `#DCD4C3`| ![#DCD4C3](assets/swatches/dcd4c3.png) |
 | Bg    | `#0F0D0E`| ![#0F0D0E](assets/swatches/0f0d0e.png) |
-| Red   | `#B6573F`| ![#B6573F](assets/swatches/b6573f.png) |
+| Red   | `#C05E45`| ![#C05E45](assets/swatches/c05e45.png) |
 | Green | `#7C8354`| ![#7C8354](assets/swatches/7c8354.png) |
-| Blue  | `#D3B872`| ![#D3B872](assets/swatches/d3b872.png) |
+| Cyan  | `#649582`| ![#649582](assets/swatches/649582.png) |
+| Blue  | `#7F97A6`| ![#7F97A6](assets/swatches/7f97a6.png) |
+| Magenta | `#A0799B`| ![#A0799B](assets/swatches/a0799b.png) |
 
 ## License
 
