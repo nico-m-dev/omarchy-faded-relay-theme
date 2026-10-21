@@ -1,8 +1,7 @@
 mode = "dark"
 
 accent = "#C08A3E"
-selection = "#C08A3E"
-selection_foreground = "#0F0D0E"
+selection = "#63482A"
 muted = "#847A6B"
 hyprland_active_border = "rgba(c08a3eff)"
 
